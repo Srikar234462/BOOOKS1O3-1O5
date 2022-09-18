@@ -1,0 +1,21 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,118,9,0.8461134453781513) 35%, rgba(26,192,202,1) 77%, rgba(0,212,255,1) 100%);
+text-align: center;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+    font-variant: small-caps;
+    font-style: oblique;
+
+}
+.model{
+    font-family: 'Silkscreen', cursive;
+    color: whitesmoke;
+}
+.name_of_object{
+    color: chartreuse;
+    font-size: 22px;
+
+}
